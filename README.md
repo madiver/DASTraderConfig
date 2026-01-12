@@ -6,6 +6,8 @@ Configuration files for DAS Trader Pro and Stream Deck.
 
 This repository contains my personal DAS Trader Pro and Stream Deck configuration files for reference and educational purposes. The desktop and chart layouts plus Stream Deck profiles are designed to work with my hotkeys and tooling. Please review and adapt anything you use to match your account settings, broker rules, and hardware setup.
 
+Serious about day trading? You can find me on Discord here: https://discord.gg/UvZYTEGrvh
+
 ## Requirements
 
 - Hotkeys repository: https://github.com/madiver/DASTraderScripts
